@@ -1,4 +1,4 @@
-# Link to working Post- https://www.linkedin.com/feed/update/urn:li:activity:7047527002513272832/
+# Link to working Post- https://www.linkedin.com/posts/aditya-arora-7571491b6_reactjs-netlify-fullstackdeveloper-activity-7047527002513272832-DQBg?utm_source=share&utm_medium=member_desktop
 
 ![Teams Build with Chat Engine](https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg)
 
